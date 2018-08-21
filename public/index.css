@@ -1,6 +1,7 @@
 html,
 body,
 #map {
+  height: 100%; /*задать высоту карты*/
   margin: 0;
   padding: 0;
 }
